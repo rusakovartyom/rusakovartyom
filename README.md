@@ -1,4 +1,4 @@
-### Well, this is intersting feature 👋
+### Well, this is an interesting feature 👋
 
 <!--
 **rusakovartyom/rusakovartyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
