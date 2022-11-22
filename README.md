@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artyom Rusakov</h1>
 <h3 align="center">A novice frontend developer from Russia</h3>
 
-- 🔭 I’m currently working on [Error Tracking Tool](https://github.com/rusakovartyom)
+- 🔭 I’m currently working on [Error Tracking Tool](https://github.com/rusakovartyom/error-tracking-tool)
 
 - 🌱 I’m currently learning **TypeScript, NodeJS, Next.js**
 
