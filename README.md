@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Error Tracking Tool](https://github.com/rusakovartyom/error-tracking-tool)
 
-- 🌱 I’m currently learning **TypeScript, NodeJS, Next.js**
+- 🌱 I’m currently learning **TypeScript, NodeJS, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rusakovartyom](https://github.com/rusakovartyom)
 
